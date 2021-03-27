@@ -52,6 +52,13 @@ If you think something should be added, please create a new issue.
 * [TDD in TypeScript (aka abusing `declare`)](https://github.com/gcanti/talks/blob/master/blog_posts/Mar_18_1.md)
 * [Algebraic Data Types](https://github.com/gcanti/talks/blob/master/blog_posts/Mar_18_2.md)
 
+## Domain modeling in TypeScript
+* [Introduction](https://dev.to/ruizb/introduction-961)
+* [The domain and some concepts](https://dev.to/ruizb/the-domain-and-some-concepts-3ene)
+* [Using fp-ts and newtype-ts: types](https://dev.to/ruizb/using-fp-ts-and-newtype-ts-types-em8)
+* [Using fp-ts and newtype-ts: implementation](https://dev.to/ruizb/using-fp-ts-and-newtype-ts-implementation-422a)
+* [Using fp-ts and io-ts: types and implementation](https://dev.to/ruizb/using-fp-ts-and-io-ts-types-and-implementation-1k6a)
+
 # Examples
 * [grossbart.github.io/fp-ts-recipes](https://grossbart.github.io/fp-ts-recipes) - A collection of practical examples
 * [gcanti/docs-ts](https://github.com/gcanti/docs-ts) - A zero-config documentation tool for my TypeScript projects
