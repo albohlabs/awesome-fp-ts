@@ -6,6 +6,7 @@ If you think something should be added, please create a new issue.
 
 * [gcanti/fp-ts](https://github.com/gcanti/fp-ts)
 * [Code Conventions](https://gcanti.github.io/fp-ts/guides/code-conventions.html)
+* [Understanding the types](https://github.com/samhh/fp-ts-std/blob/master/docs/understanding-types.md)
 
 # Getting started
 * [Eq](https://github.com/gcanti/talks/blob/master/blog_posts/Mar_11.md)
