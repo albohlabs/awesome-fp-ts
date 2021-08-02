@@ -86,3 +86,4 @@ If you think something should be added, please create a new issue.
 * [gcanti/io-ts-types](https://github.com/gcanti/io-ts-types) - A collection of codecs and combinators
 * [gillchristian/io-ts-reporters](https://github.com/gillchristian/io-ts-reporters) - Error reporters
 * [gcanti/monocle-ts](https://github.com/gcanti/monocle-ts) - Functional optics: a (partial) porting of Scala monocle
+* [unsplash/request-frp](https://github.com/unsplash/request-frp) - Package that provides pure wrappers around `fetch` and `XMLHttpRequest`
