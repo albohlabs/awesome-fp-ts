@@ -19,6 +19,7 @@ If you think something should be added, please create a new issue.
 * [IO](https://github.com/gcanti/talks/blob/master/blog_posts/Apr_14.md)
 * [Either vs Validation](https://github.com/gcanti/talks/blob/master/blog_posts/Apr_3.md)
 * [Monad](https://github.com/gcanti/talks/blob/master/blog_posts/Apr_9.md)
+* [Data Structures, Composing Functions, From one data structure to another, Reader, Some specific examples](https://github.com/inato/fp-ts-cheatsheet)
 
 # Practical Guide
 * [Pipe and Flow](https://rlee.dev/writing/practical-guide-to-fp-ts-part-1)
