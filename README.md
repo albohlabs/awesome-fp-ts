@@ -22,12 +22,12 @@ If you think something should be added, please create a new issue.
 * [Data Structures, Composing Functions, From one data structure to another, Reader, Some specific examples](https://github.com/inato/fp-ts-cheatsheet)
 
 # Practical Guide
-* [Pipe and Flow](https://rlee.dev/writing/practical-guide-to-fp-ts-part-1)
-* [Option, Map, Flatten, Chain](https://rlee.dev/writing/practical-guide-to-fp-ts-part-2)
-* [Task, Either, TaskEither](https://rlee.dev/writing/practical-guide-to-fp-ts-part-3)
-* [Arrays, Semigroups, Monoids](https://rlee.dev/writing/practical-guide-to-fp-ts-part-4)
-* [Apply, Sequences, and Traversals](https://rlee.dev/writing/practical-guide-to-fp-ts-part-5)
-* [The Do Notation](https://rlee.dev/writing/practical-guide-to-fp-ts-part-6)
+* [Pipe and Flow](https://rlee.dev/practical-guide-to-fp-ts-part-1)
+* [Option, Map, Flatten, Chain](https://rlee.dev/practical-guide-to-fp-ts-part-2)
+* [Task, Either, TaskEither](https://rlee.dev/practical-guide-to-fp-ts-part-3)
+* [Arrays, Semigroups, Monoids](https://rlee.dev/practical-guide-to-fp-ts-part-4)
+* [Apply, Sequences, and Traversals](https://rlee.dev/practical-guide-to-fp-ts-part-5)
+* [The Do Notation](https://rlee.dev/practical-guide-to-fp-ts-part-6)
 
 # Advanced
 * [Should I use fp-ts Task?](https://dev.to/anthonyjoeseph/should-i-use-fp-ts-task-h52)
