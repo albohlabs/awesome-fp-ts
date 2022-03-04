@@ -9,6 +9,8 @@ If you think something should be added, please create a new issue.
 * [Understanding the types](https://github.com/samhh/fp-ts-std/blob/master/docs/understanding-types.md)
 
 # Getting started
+* [Mostly adequate guide to FP-TS](https://cjonas.gitbook.io/mostly-adequate-fp-ts/) 
+* [Book: Introduction to Functional Programming by Giulio Canti](https://github.com/enricopolanski/functional-programming)
 * [Eq](https://github.com/gcanti/talks/blob/master/blog_posts/Mar_11.md)
 * [Ord](https://github.com/gcanti/talks/blob/master/blog_posts/Mar_13.md)
 * [Semigroup](https://github.com/gcanti/talks/blob/master/blog_posts/Mar_15.md)
@@ -19,9 +21,23 @@ If you think something should be added, please create a new issue.
 * [IO](https://github.com/gcanti/talks/blob/master/blog_posts/Apr_14.md)
 * [Either vs Validation](https://github.com/gcanti/talks/blob/master/blog_posts/Apr_3.md)
 * [Monad](https://github.com/gcanti/talks/blob/master/blog_posts/Apr_9.md)
-* [Data Structures, Composing Functions, From one data structure to another, Reader, Some specific examples](https://github.com/inato/fp-ts-cheatsheet)
 
-# Practical Guide
+# Advanced
+* [How to write type class instances for your data type](https://gcanti.github.io/fp-ts/guides/HKT.html)
+* [Interoperability with non functional code using fp-ts](https://github.com/gcanti/talks/blob/master/blog_posts/Feb_12.md)
+* [Introduction to property based testing](https://github.com/gcanti/talks/blob/master/blog_posts/Mar_17.md)
+
+# Community
+* [Should I use fp-ts Task?](https://dev.to/anthonyjoeseph/should-i-use-fp-ts-task-h52)
+* [fp-ts Cheatsheet](https://github.com/inato/fp-ts-cheatsheet)
+* [fp-ts, sequenceT, and sweet sweet async typed FP](https://dev.to/gnomff_65/fp-ts-sequencet-and-sweet-sweet-async-typed-fp-5aop)
+* [fp-ts and Beautiful API Calls](https://dev.to/gnomff_65/fp-ts-and-beautiful-api-calls-1f55)
+* [When An Error Is Not An Exception](https://dev.to/vncz/forewords-and-domain-model-1p13)
+* [FP-TS for HTTP-requests](https://kimmosaaskilahti.fi/blog/2019-08-29-fp-ts/)
+* [Basic introduction to FP-TS](https://davetayls.me/blog/2018/06/09/fp-ts-02-handling-error-cases) 
+* [The State monad](https://paulgray.net/the-state-monad/)
+
+## Practical Guide by Ryan Lee
 * [Pipe and Flow](https://rlee.dev/practical-guide-to-fp-ts-part-1)
 * [Option, Map, Flatten, Chain](https://rlee.dev/practical-guide-to-fp-ts-part-2)
 * [Task, Either, TaskEither](https://rlee.dev/practical-guide-to-fp-ts-part-3)
@@ -29,19 +45,19 @@ If you think something should be added, please create a new issue.
 * [Apply, Sequences, and Traversals](https://rlee.dev/practical-guide-to-fp-ts-part-5)
 * [The Do Notation](https://rlee.dev/practical-guide-to-fp-ts-part-6)
 
-# Advanced
-* [Should I use fp-ts Task?](https://dev.to/anthonyjoeseph/should-i-use-fp-ts-task-h52)
-* [ReaderTaskEither Foundations](https://andywhite.xyz/posts/2021-01-27-rte-foundations/)
-* [ReaderTaskEither and React](https://andywhite.xyz/posts/2021-01-28-rte-react/)
-* [fp-ts, sequenceT, and sweet sweet async typed FP](https://dev.to/gnomff_65/fp-ts-sequencet-and-sweet-sweet-async-typed-fp-5aop)
-* [fp-ts and Beautiful API Calls](https://dev.to/gnomff_65/fp-ts-and-beautiful-api-calls-1f55)
-* [How to write type class instances for your data type](https://gcanti.github.io/fp-ts/guides/HKT.html)
-* [Interoperability with non functional code using fp-ts](https://github.com/gcanti/talks/blob/master/blog_posts/Feb_12.md)
-* [Introduction to property based testing](https://github.com/gcanti/talks/blob/master/blog_posts/Mar_17.md)
+## Yuriy Bogomolov
+* [Introduction series to FP-TS](https://ybogomolov.me/01-higher-kinded-types/) 
 * [Building eDSLs in functional TypeScript :film_strip:](https://github.com/YBogomolov/workshop-edsl-in-typescript)
 * [YBogomolov/monadic-mondays](https://github.com/YBogomolov/monadic-mondays)
+* [Making Illegal States Unrepresentable](https://ybogomolov.me/making-illegal-states-unrepresentable/)
+  * [Making Illegal States Unrepresentable :film_strip:](https://www.youtube.com/watch?v=T7i2wlCqgJk)
 
-## Why is fp-ts TaskEither Like That?
+## Andy White
+* [ReaderTaskEither Foundations](https://andywhite.xyz/posts/2021-01-27-rte-foundations/)
+* [ReaderTaskEither and React](https://andywhite.xyz/posts/2021-01-28-rte-react/)
+* [The ReaderTaskMonad](https://andywhite.xyz/posts/) 
+
+# Why is fp-ts TaskEither Like That?
 * [Either vs Exception Handling](https://dev.to/anthonyjoeseph/either-vs-exception-handling-3jmg)
 * [TaskEither vs Promise](https://dev.to/anthonyjoeseph/taskeither-vs-promise-2g5e)
 * [TaskEither vs Fluture](https://dev.to/anthonyjoeseph/taskeither-vs-fluture-4e0n)
@@ -54,7 +70,7 @@ If you think something should be added, please create a new issue.
 * [TDD in TypeScript (aka abusing `declare`)](https://github.com/gcanti/talks/blob/master/blog_posts/Mar_18_1.md)
 * [Algebraic Data Types](https://github.com/gcanti/talks/blob/master/blog_posts/Mar_18_2.md)
 
-## Domain modeling in TypeScript
+## Domain modeling in TypeScript by Benoit Ruiz
 * [Introduction](https://dev.to/ruizb/introduction-961)
 * [The domain and some concepts](https://dev.to/ruizb/the-domain-and-some-concepts-3ene)
 * [Using fp-ts and newtype-ts: types](https://dev.to/ruizb/using-fp-ts-and-newtype-ts-types-em8)
